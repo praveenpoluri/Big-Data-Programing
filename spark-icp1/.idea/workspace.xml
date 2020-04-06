@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="870aed86-2a4c-4ea2-8d9f-2a0402b26d77" name="Default Changelist" comment="" />
+    <list default="true" id="870aed86-2a4c-4ea2-8d9f-2a0402b26d77" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark-icp2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/config-classes/$144ce37b8359438159b5$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/config-classes/$144ce37b8359438159b5.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/config-classes/$144ce37b8359438159b5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/config-classes/$25aef4f7fc897f66b0f4$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/config-classes/$25aef4f7fc897f66b0f4.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/config-classes/$25aef4f7fc897f66b0f4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/config-classes/$cb0c28ea28908ffb79f8$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/config-classes/$cb0c28ea28908ffb79f8.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/config-classes/$cb0c28ea28908ffb79f8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/config-classes/$f19d3e5c192937d45b1f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/config-classes/$f19d3e5c192937d45b1f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/config-classes/$f19d3e5c192937d45b1f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/default/wordcount_latest-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/default/wordcount_latest-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/default/wordcount_latest-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/default/wordcount_latest-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount_latest-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount_latest-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount_latest-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount_latest-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount_latest-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount_latest-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount_latest-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount_latest-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount_latest-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount_latest-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount_latest-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount_latest-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount_latest-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount_latest-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount_latest-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount_latest-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount_latest-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount_latest-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount_latest-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount_latest-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount_latest-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount_latest-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/classes/InvertedIndex$.class" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/classes/InvertedIndex$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/reports/wordcount-wordcount_2.12-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/reports/wordcount-wordcount_2.12-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/reports/wordcount-wordcount_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/reports/wordcount-wordcount_2.12-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/reports/wordcount-wordcount_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/reports/wordcount-wordcount_2.12-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/reports/wordcount-wordcount_2.12-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/reports/wordcount-wordcount_2.12-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/reports/wordcount-wordcount_2.12-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/reports/wordcount-wordcount_2.12-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/reports/wordcount-wordcount_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/reports/wordcount-wordcount_2.12-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/reports/wordcount-wordcount_2.12-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/reports/wordcount-wordcount_2.12-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/reports/wordcount-wordcount_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/reports/wordcount-wordcount_2.12-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/reports/wordcount-wordcount_2.12-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/reports/wordcount-wordcount_2.12-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/reports/wordcount-wordcount_2.12-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/reports/wordcount-wordcount_2.12-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/reports/wordcount-wordcount_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/reports/wordcount-wordcount_2.12-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/wordcount/wordcount_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/wordcount/wordcount_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/wordcount/wordcount_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/scala-2.12/resolution-cache/wordcount/wordcount_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-icp2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-icp2/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,14 +81,63 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WordCount_Latest/WordCount_Latest" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunManager">
     <configuration name="WordCount" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="WordCount" />
       <module name="spark-icp1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="spark-icp1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="spark-icp1" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -55,7 +160,11 @@
       <updated>1584406845903</updated>
       <workItem from="1584406847633" duration="333000" />
       <workItem from="1584738919912" duration="4490000" />
-      <workItem from="1586137257966" duration="509000" />
+      <workItem from="1586137257966" duration="725000" />
+      <workItem from="1586138147795" duration="677000" />
+      <workItem from="1586141509796" duration="289000" />
+      <workItem from="1586141815453" duration="203000" />
+      <workItem from="1586187148120" duration="3255000" />
     </task>
     <servers />
   </component>
@@ -67,30 +176,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="485" y="72" key="#WordCount/0.0.1536.824@0.0.1536.824" timestamp="1584925990723" />
-    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584926128458">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586198407110">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584926128458" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586198407110" />
     <state x="526" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584739672870">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="526" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1584739672870" />
-    <state x="583" y="328" width="384" height="170" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1584406967193">
+    <state x="583" y="328" width="384" height="170" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1586188511104">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="583" y="328" width="384" height="170" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.824@0.0.1536.824" timestamp="1584406967193" />
-    <state x="498" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584926106357">
+    <state x="583" y="328" width="384" height="170" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.824@0.0.1536.824" timestamp="1586188511104" />
+    <state x="498" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586198396279">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="498" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1584926106357" />
+    <state x="498" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1586198396279" />
     <state x="618" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584406948758">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="618" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1584406948758" />
-    <state x="548" y="168" key="FileChooserDialogImpl" timestamp="1584926140594">
+    <state x="449" y="149" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586137974134">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584926140594" />
+    <state x="449" y="149" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1586137974134" />
+    <state x="548" y="168" key="FileChooserDialogImpl" timestamp="1586198419026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586198419026" />
     <state width="746" height="210" key="GridCell.Tab.0.bottom" timestamp="1584926581013">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -107,10 +220,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="746" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584926581013" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1584739560258">
+    <state x="277" y="55" key="SettingsEditor" timestamp="1586198268647">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584739560258" />
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586198268647" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1586187151166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586187151166" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586137745239">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

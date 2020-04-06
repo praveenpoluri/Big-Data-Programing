@@ -1,3 +1,4 @@
+
 name := "WordCount"
 
 scalaVersion := "2.12.10"
