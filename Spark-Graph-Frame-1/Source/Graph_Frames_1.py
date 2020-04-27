@@ -38,7 +38,7 @@ from pyspark.sql import *
 pip install findspark
 
 
-# In[ ]:
+# In[4]:
 
 
 import findspark
@@ -75,106 +75,106 @@ os.environ["JAVA_HOME"] = "/usr/lib/jvm/java-8-openjdk-amd64"
 os.environ["SPARK_HOME"] = "/content/spark-2.3.4-bin-hadoop2.7"
 
 
-# In[4]:
+# In[5]:
 
 
 from graphframes import *
 
 
-# In[5]:
+# In[6]:
 
 
 import pyspark
 
 
-# In[6]:
+# In[7]:
 
 
 from pyspark import *
 from pyspark.sql import *
 
 
-# In[ ]:
+# In[8]:
 
 
 import findspark
 findspark.init("/content/spark-2.3.4-bin-hadoop2.7")
 
 
-# In[11]:
+# In[9]:
 
 
 sc=SparkContext().getOrCreate()
 
 
-# In[12]:
+# In[42]:
 
 
 sqlcontext=SQLContext(sc)
 
 
-# In[14]:
+# In[43]:
 
 
 df_station=sqlcontext.read.format("csv").option("header","true").csv("201508_station_data.csv")
 
 
-# In[15]:
+# In[44]:
 
 
 df_trip=sqlcontext.read.format("csv").option("header","true").csv("201508_trip_data.csv")
 
 
-# In[ ]:
+# In[45]:
 
 
 df_station.show
 
 
-# In[16]:
+# In[46]:
 
 
 df_station.registerTempTable("station")
 df_trip.registerTempTable("trip")
 
 
-# In[17]:
+# In[40]:
 
 
 sqlcontext.sql('select * from station').show()
 
 
-# In[18]:
+# In[41]:
 
 
 sqlcontext.sql('select * from trip').show()
 
 
-# In[19]:
+# In[47]:
 
 
 sqlcontext.sql('select concat(cast(lat as string)," ",cast(long as String)) as lat_long from station').show()
 
 
-# In[20]:
+# In[48]:
 
 
 sqlcontext.sql('select station_id, name as id, lat,long,dockcount,landmark,installation from station group by station_id,name,lat,long,dockcount,landmark,installation').show()
 
 
-# In[35]:
+# In[49]:
 
 
 vertices=sqlcontext.sql('select name as id, concat(cast(lat as string)," ",cast(long as String)) as lat_long, dockcount,installation from station group by station_id,name,lat,long,dockcount,landmark,installation')
 
 
-# In[36]:
+# In[50]:
 
 
 vertices.show()
 
 
-# In[23]:
+# In[51]:
 
 
 edges=sqlcontext.sql('select `Start Station` as src,`End Station` as dst, count(*) as cnt from trip group by `Start Station`,`End Station`')
@@ -186,7 +186,7 @@ edges=sqlcontext.sql('select `Start Station` as src,`End Station` as dst, count(
 edges.show()
 
 
-# In[25]:
+# In[52]:
 
 
 
@@ -199,20 +199,44 @@ from graphframes import *
 get_ipython().system('curl -L -o "/usr/local/lib/python3.6/dist-packages/pyspark/jars/graphframes-0.6.0-spark2.3-s_2.11.jar" http://dl.bintray.com/spark-packages/maven/graphframes/graphframes/0.6.0-spark2.3-s_2.11/graphframes-0.6.0-spark2.3-s_2.11.jar')
 
 
-# In[37]:
+# In[53]:
 
 
 graph=GraphFrame(vertices,edges)
 
 
-# In[38]:
+# In[54]:
 
 
 graph.vertices.show()
 
 
-# In[ ]:
+# In[55]:
 
 
+graph.edges.show()
 
+
+# In[56]:
+
+
+graph.inDegrees.show()
+
+
+# In[57]:
+
+
+graph.outDegrees.show()
+
+
+# In[58]:
+
+
+graph.find("(a)-[e]->(b);(b)-[e1]->(c)").show(truncate=False)
+
+
+# In[34]:
+
+
+sqlcontext.sql("select * from inDegrees order by inDegrees desc").show()
 
