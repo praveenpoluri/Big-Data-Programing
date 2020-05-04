@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Apr 28 21:43:56 CDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0171-c3d1-c347-000013a32298 
+on database directory C:\Users\prave\OneDrive\Documents\GitHub\Big-Data-Programing\Graph-Frames-2\SourceCode\metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@200ee0e6 
+Loaded from file:/C:/spark/spark-2.4.5-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b14
+user.dir=C:\Users\prave\OneDrive\Documents\GitHub\Big-Data-Programing\Graph-Frames-2\SourceCode
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
